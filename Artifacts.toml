@@ -1,0 +1,113 @@
+[[hub]]
+arch = "aarch64"
+git-tree-sha1 = "f17a72c8499b7fad2733fa7a15d390cfd59f2fc7"
+libc = "musl"
+os = "linux"
+
+    [[hub.download]]
+    sha256 = "dcda62314499572476714f764a0a934bd680791725e7e444abbf4ebe528fac2a"
+    url = "https://github.com/JuliaBinaryWrappers/hub_jll.jl/releases/download/hub-v2.14.1+0/hub.v2.14.1.aarch64-linux-musl.tar.gz"
+[[hub]]
+arch = "i686"
+git-tree-sha1 = "684e135978fdb98130639774f77fec6a6fe274ff"
+os = "windows"
+
+    [[hub.download]]
+    sha256 = "5590106844ac398ade234a5e0a926ce67160bdbdb455cb746d04acea07fc78c3"
+    url = "https://github.com/JuliaBinaryWrappers/hub_jll.jl/releases/download/hub-v2.14.1+0/hub.v2.14.1.i686-w64-mingw32.tar.gz"
+[[hub]]
+arch = "x86_64"
+git-tree-sha1 = "10309122827ed4bc05990a2cfab424e152a8f6ac"
+libc = "musl"
+os = "linux"
+
+    [[hub.download]]
+    sha256 = "f661628391be2be915ba77c8e36786f888a5bc706f88e4774b4cbd53eb46d322"
+    url = "https://github.com/JuliaBinaryWrappers/hub_jll.jl/releases/download/hub-v2.14.1+0/hub.v2.14.1.x86_64-linux-musl.tar.gz"
+[[hub]]
+arch = "i686"
+git-tree-sha1 = "cfc56de9a11647aac81d67879dd4723724c49eb1"
+libc = "glibc"
+os = "linux"
+
+    [[hub.download]]
+    sha256 = "3ec4a8b99e27d0af91c486dc3b854f824f9fb561026c00c127a2deaf79ca4a1b"
+    url = "https://github.com/JuliaBinaryWrappers/hub_jll.jl/releases/download/hub-v2.14.1+0/hub.v2.14.1.i686-linux-gnu.tar.gz"
+[[hub]]
+arch = "armv7l"
+git-tree-sha1 = "748bda0f1a8925e39e8beb95af698cbc45ba4b22"
+libc = "glibc"
+os = "linux"
+
+    [[hub.download]]
+    sha256 = "a7d9cb21a8d3d0c5b3dbc4a8daffca33db80018a942e2ec9e0251482789f6533"
+    url = "https://github.com/JuliaBinaryWrappers/hub_jll.jl/releases/download/hub-v2.14.1+0/hub.v2.14.1.armv7l-linux-gnueabihf.tar.gz"
+[[hub]]
+arch = "aarch64"
+git-tree-sha1 = "53ed6136b268cbf036a2837e3870c9514942ae15"
+libc = "glibc"
+os = "linux"
+
+    [[hub.download]]
+    sha256 = "1ba8c953a7922303ebbd533ec42c61cd1cbb4be6d8cbf3cb1ffb470065ab48f9"
+    url = "https://github.com/JuliaBinaryWrappers/hub_jll.jl/releases/download/hub-v2.14.1+0/hub.v2.14.1.aarch64-linux-gnu.tar.gz"
+[[hub]]
+arch = "x86_64"
+git-tree-sha1 = "b8eafdff0a518bdeb9887deb030a5c90caea2289"
+libc = "glibc"
+os = "linux"
+
+    [[hub.download]]
+    sha256 = "1a82adebb643947d334875d4147c951c1ce5d3e751a7b4553f7fcff63ef9599b"
+    url = "https://github.com/JuliaBinaryWrappers/hub_jll.jl/releases/download/hub-v2.14.1+0/hub.v2.14.1.x86_64-linux-gnu.tar.gz"
+[[hub]]
+arch = "powerpc64le"
+git-tree-sha1 = "dec378aa70c3d803fd52d65852e5b9f9a1957d5a"
+libc = "glibc"
+os = "linux"
+
+    [[hub.download]]
+    sha256 = "fde4d03ec73adab3514b989e603149ec2a9c3e5e2764f565d0acb5f7178b9697"
+    url = "https://github.com/JuliaBinaryWrappers/hub_jll.jl/releases/download/hub-v2.14.1+0/hub.v2.14.1.powerpc64le-linux-gnu.tar.gz"
+[[hub]]
+arch = "x86_64"
+git-tree-sha1 = "8c9041fa3647ebd3e1a36cfdd2d72494e271fd1c"
+os = "macos"
+
+    [[hub.download]]
+    sha256 = "6b638f7abfd3888bf5fbf8944c9834f3d6a4ad4dc20bfe9b1bd5d7c8e8cbfce1"
+    url = "https://github.com/JuliaBinaryWrappers/hub_jll.jl/releases/download/hub-v2.14.1+0/hub.v2.14.1.x86_64-apple-darwin14.tar.gz"
+[[hub]]
+arch = "x86_64"
+git-tree-sha1 = "13593a59d84890df03383fc09481d00fcf78ba5d"
+os = "freebsd"
+
+    [[hub.download]]
+    sha256 = "ec98df8fa207ea0d53cdccc87923d627875d925cb2c97f1727c92dca7ae28a44"
+    url = "https://github.com/JuliaBinaryWrappers/hub_jll.jl/releases/download/hub-v2.14.1+0/hub.v2.14.1.x86_64-unknown-freebsd11.1.tar.gz"
+[[hub]]
+arch = "i686"
+git-tree-sha1 = "2ea65a278fb661543ea7e8f08e39781c343b8ecd"
+libc = "musl"
+os = "linux"
+
+    [[hub.download]]
+    sha256 = "fd16370ffaad77ede621000f31d86d142f3eeb6042fab9062182aeb9ac2a14ed"
+    url = "https://github.com/JuliaBinaryWrappers/hub_jll.jl/releases/download/hub-v2.14.1+0/hub.v2.14.1.i686-linux-musl.tar.gz"
+[[hub]]
+arch = "armv7l"
+git-tree-sha1 = "bbd1dd72eb0e7fbe2f313fd87b0ddad0fbf81930"
+libc = "musl"
+os = "linux"
+
+    [[hub.download]]
+    sha256 = "47cc3f3339b93b3f9e2b720479f3b837390b038d8d5c231d0dfa7bae3de124ce"
+    url = "https://github.com/JuliaBinaryWrappers/hub_jll.jl/releases/download/hub-v2.14.1+0/hub.v2.14.1.armv7l-linux-musleabihf.tar.gz"
+[[hub]]
+arch = "x86_64"
+git-tree-sha1 = "fcd28ab3410feec1b767dc403bcb17ae40b4b6bd"
+os = "windows"
+
+    [[hub.download]]
+    sha256 = "417cd8cfd5603cb8c9afbeec983ed19a172df64bb5754883f61d508c9018c6f0"
+    url = "https://github.com/JuliaBinaryWrappers/hub_jll.jl/releases/download/hub-v2.14.1+0/hub.v2.14.1.x86_64-w64-mingw32.tar.gz"
